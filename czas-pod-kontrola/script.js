@@ -1,5 +1,5 @@
-// Link do koszyka wklej w zmienną CHECKOUT_URL po skonfigurowaniu produktu w Naffy.
-const CHECKOUT_URL = '';
+// Link do strony produktu w Naffy.
+const CHECKOUT_URL = 'https://www.naffy.io/krzysztof-graczyk-ureca/czas-pod-kontrola-opi';
 const menuButton = document.querySelector('.menu-toggle');
 const nav = document.querySelector('.nav');
 menuButton.addEventListener('click', () => {
